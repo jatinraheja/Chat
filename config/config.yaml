@@ -1,0 +1,8 @@
+db_username: 'rw-user'
+db_password: '2JTQO5bGpF3sFc9A'
+db_url: 'kiniso.igkud.mongodb.net'
+db_name: 'KinISO-D'
+db_retry_write: 'true'
+db_w: 'majority'
+db_connection_url: "mongodb+srv://admin:admin123@cluster0.6uq1zvp.mongodb.net/GroupChat?retryWrites=true&w=majority"
+debug: True
